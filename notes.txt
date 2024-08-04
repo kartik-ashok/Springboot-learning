@@ -1,0 +1,12 @@
+03/08/2024(18th video)
+stream api:
+@Component
+@Autowired
+@PathVariable
+@RequestBody
+Jackson
+service class
+Spring web
+model or entity class
+Group Id to Identify our Project Uniquely:
+Artifact id : project Name
